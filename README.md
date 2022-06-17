@@ -1,17 +1,3 @@
-<div align="center">
-<img src="https://media-exp1.licdn.com/dms/image/C4E16AQHZz1e_xrSVlw/profile-displaybackgroundimage-shrink_350_1400/0/1653737545348?e=1660780800&v=beta&t=XyfrEzncnS4bDzxUNlUzTlMtocMu5FPSLPXNVXzTN8M" align="center" style="width: 100%" />
-</div> 
-
-<h1 align="center">Tchialo Armando</h1>
-<h3 align="center">Software Developer (.NET)</h3>
-<br/>
-
-- 🔭 I’m currently working on **Fstock, AndMangá**
-
-- 📫 How to reach me **tchialo.crocodile@gmail.com**
-
-- ⚡ Fun fact **You can call me "The Owl"**
-
 ## Connect with me
 <div align="left">
 <a href="https://github.com/tchial0" target="_blank">
